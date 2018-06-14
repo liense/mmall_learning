@@ -10,10 +10,10 @@
 #maven ignore
 target/
 
-#eclipse ignore
+#eclipse ignoregit
 .settings/
 .project
-.classpatch
+.classpath
 
 #idea
 .idea/
